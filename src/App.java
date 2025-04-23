@@ -1,5 +1,6 @@
+import Models.Book;
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] boosk) throws Exception {
 
         Book[] books = {
                 new Book("Clean Code", 2008),
@@ -32,7 +33,10 @@ public class App {
                 new Book("Computer Organization and Design", 1994),
                 new Book("Deep Learning", 2016),
                 new Book("The Elements of Statistical Learning", 2001)
+                
         };
+        Book  constructor=new 
+        
 
     }
 }
